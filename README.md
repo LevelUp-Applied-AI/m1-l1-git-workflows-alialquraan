@@ -7,13 +7,13 @@
 
 ## Project Overview
 
-TODO: Write 2–3 sentences describing what this project does and who it is for.
+This project establishes a reproducible environment for a three-person team to analyze hospital admission records. It uses a virtual environment and a standardized requirements.txt to ensure the setup can be launched in under two minutes.
 
 ---
 
 ## Setup Instructions
 
-This project focuses on analyzing hospital admission data to identify patterns and improve healthcare delivery.
+TODO: Complete these setup steps after creating your `requirements.txt`:
 
 ```bash
 python -m venv .venv
