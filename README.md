@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
-# [Project Title — e.g., Hospital Admission Records Analysis]
+# Hospital Admission Records Analysis Project
 
 > **Lab 1 starter repo** — Replace the heading above with your project title. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
 
@@ -13,7 +13,7 @@ TODO: Write 2–3 sentences describing what this project does and who it is for.
 
 ## Setup Instructions
 
-TODO: Complete these setup steps after creating your `requirements.txt`:
+This project focuses on analyzing hospital admission data to identify patterns and improve healthcare delivery.
 
 ```bash
 python -m venv .venv
